@@ -1,7 +1,8 @@
-#mySection {
-  color: green;
+ .row {
+  margin-bottom: 15px;
 }
 
-.myColor {
-  color: blue;
+.row > div {
+  border: 2px solid red;
+  background-color: gray;
 }
