@@ -13,3 +13,10 @@ body {
 	border: 0;
 	color:;
 }
+
+#logo-img {
+	background-image: url('../images/TALKSPORT2.jpg');
+	width: 222px;
+	height: 212px;
+	margin: 5px;
+}
